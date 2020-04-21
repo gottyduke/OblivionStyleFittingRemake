@@ -1,0 +1,4 @@
+LIBRARY "OblivionStyleInventoryCharacterViewRemake"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
